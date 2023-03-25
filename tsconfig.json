@@ -1,0 +1,12 @@
+
+{
+  "compilerOptions": {
+      "strict" : true,
+      "alwaysStrict": true,
+      "noImplicitAny": true,
+      "noImplicitThis": true,
+      "downlevelIteration": true,
+      "esModuleInterop": true,
+      "baseUrl": "./src",       
+  }
+}

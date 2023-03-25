@@ -1,0 +1,19 @@
+img.graph {
+  width: 400px;
+  height: 400px;
+  border: 1px solid #ddd;
+}
+
+canvas {
+  display: none;
+}
+
+table {
+  border-collapse: collapse;
+
+}
+
+table td {
+  border: 1px solid #000;
+  padding: 5px;
+}
